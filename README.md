@@ -18,4 +18,4 @@ Steps:
 4)finding insights from the data in the form of visualization tools
 
 
-![Screenshot (29)](https://user-images.githubusercontent.com/94173810/234064216-a43c91cb-6482-4309-a902-84c10845d07c.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/94173810/234064697-4a5de57c-b9a8-4e17-9dc3-373d17da7762.png)
